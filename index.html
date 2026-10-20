@@ -21,7 +21,7 @@
   <!-- استبدل <a href="mailto:ah83tf@gmail.com">ah83tf@gmail.com</a> و<a href="mailto:ah83tf@gmail.com">ah83tf@gmail.com</a> ببريدك قبل النشر. الصفحة جاهزة لـ GitHub Pages (مجلد docs) -->
   <section lang="ar" dir="rtl">
     <h1>سياسة الخصوصية لتطبيق Txiptv</h1>
-    <p class="muted">آخر تحديث: 14 أكتوبر 2026</p>
+    <p class="muted">آخر تحديث: 20 أكتوبر 2026</p>
 
     <h2>نظرة عامة</h2>
     <p>Txiptv مشغّل وسائط فقط. لا يوفّر أي محتوى. يجب على المستخدمين إضافة قوائم التشغيل الخاصة بهم والتي يحق لهم قانونياً استخدامها.</p>
@@ -32,6 +32,10 @@
       <li>روابط قوائم التشغيل وبيانات دخول Xtream (الخادم واسم المستخدم وكلمة المرور) التي تدخلها بنفسك.</li>
       <li>القنوات والمفضلة ودليل البرامج المحمّل وإعدادات التشغيل واللغة ومواضع متابعة المشاهدة.</li>
       <li>رمز PIN للرقابة الأبوية، ويُخزَّن بصيغة مشفرة غير قابلة للاسترجاع (SHA-256 مع قيمة عشوائية).</li>
+      <li>قوائم المفضلة، وإعدادات ملف الأطفال (المجموعات المسموحة ووقت المشاهدة اليومي المستخدم)، وتوقيت الترجمة.</li>
+      <li>التسجيلات التي تطلبها، وملف مؤقت أثناء الإيقاف المؤقت للبث المباشر (يُحذف عند العودة للبث أو الخروج). تُحفظ في مجلد التطبيق على جهازك ويمكنك حذفها من التطبيق.</li>
+      <li>اسم مستخدم وكلمة مرور OpenSubtitles إن أدخلتها (اختياري).</li>
+      <li>سجل أخطاء محلي (آخر 300 خطأ، بعد حذف أسماء المستخدمين وكلمات المرور من الروابط) لمساعدتك في التشخيص؛ لا يُرسل إلى أي جهة.</li>
       <li>تاريخ بدء التجربة المجانية ورموز "ادعُ صديقاً" (تُحسب وتُتحقق محلياً دون أي خادم).</li>
     </ul>
     <p>تبقى هذه البيانات على جهازك وتُحذف عند إلغاء تثبيت التطبيق أو مسح بياناته. إذا كانت ميزة النسخ الاحتياطي من Google مفعّلة على جهازك، تُضمَّن إعدادات التطبيق فقط (ومنها تاريخ بدء التجربة) في نسختك الاحتياطية المشفرة في حسابك، ولا يمكننا الاطلاع عليها.</p>
@@ -41,8 +45,8 @@
 
     <h2>ميزات اختيارية تتصل بالإنترنت</h2>
     <ul>
-      <li><strong>ترجمات OpenSubtitles:</strong> فقط إذا أدخلت مفتاح API الخاص بك، يرسل التطبيق اسم الفيلم أو المسلسل ولغة الترجمة إلى opensubtitles.com لجلب ملف الترجمة. يخضع ذلك لسياسة خصوصية OpenSubtitles.</li>
-      <li><strong>المزامنة مع الهاتف:</strong> أثناء فتح نافذة المزامنة فقط، يشغّل التطبيق صفحة صغيرة داخل شبكتك المنزلية محمية برمز عشوائي، لنقل المفضلة و"تابع المشاهدة" بين أجهزتك مباشرة دون أي خادم خارجي.</li>
+      <li><strong>ترجمات OpenSubtitles:</strong> عند تشغيل الترجمة التلقائية أو البحث عن ترجمة بنفسك (ميزة اختيارية)، يرسل التطبيق اسم الفيلم أو المسلسل ورقم الموسم والحلقة ولغة الترجمة إلى opensubtitles.com لجلب ملف الترجمة. إذا أدخلت حساب OpenSubtitles، يُرسل اسم المستخدم وكلمة المرور إلى opensubtitles.com فقط لتسجيل الدخول (عبر اتصال مشفّر)، ولا نتلقاهما نحن. يخضع ذلك لسياسة خصوصية OpenSubtitles.</li>
+      <li><strong>المزامنة مع الهاتف أو تلفاز آخر:</strong> أثناء فتح نافذة المزامنة فقط، يشغّل التطبيق صفحة صغيرة داخل شبكتك المنزلية محمية برمز عشوائي، ويعلن عن نفسه داخل الشبكة المحلية فقط ليجده جهاز Txiptv آخر برمز من 6 أرقام، لنقل المفضلة وقوائمها و"تابع المشاهدة" بين أجهزتك مباشرة دون أي خادم خارجي. لا تُنقل كلمات المرور في المزامنة بين جهازين.</li>
       <li><strong>التحديث اليومي:</strong> يتصل بخوادم القوائم ودليل البرامج التي أضفتها أنت فقط.</li>
       <li><strong>طلب التقييم:</strong> قد يعرض Google Play نافذة تقييم مرة واحدة لكل إصدار؛ لا نتلقى أي بيانات منها.</li>
     </ul>
@@ -62,7 +66,7 @@
 
   <section lang="en" dir="ltr">
     <h1>Txiptv Privacy Policy</h1>
-    <p class="muted">Last updated: October 14, 2026</p>
+    <p class="muted">Last updated: October 20, 2026</p>
 
     <h2>Overview</h2>
     <p>Txiptv is a media player only. It does not provide any content. Users must add their own playlists that they are legally allowed to use.</p>
@@ -73,6 +77,10 @@
       <li>Playlist URLs and Xtream login details (server, username, password) that you enter.</li>
       <li>Channels, favorites, downloaded TV guide data, playback and language settings, and resume positions.</li>
       <li>The parental-control PIN, stored as a one-way salted SHA-256 hash.</li>
+      <li>Favorite lists, kids-profile settings (allowed groups and the daily viewing time used) and subtitle timing.</li>
+      <li>Recordings you ask for, and a temporary file while live TV is paused (deleted when you return to live or leave). They are kept in the app folder on your device and you can delete them in the app.</li>
+      <li>Your OpenSubtitles username and password, if you enter them (optional).</li>
+      <li>A local error log (last 300 errors, with usernames and passwords removed from links) to help you troubleshoot; it is never sent anywhere.</li>
       <li>The free-trial start date and "Invite a friend" codes (generated and checked locally, without any server).</li>
     </ul>
     <p>This data stays on your device and is removed when you uninstall the app or clear its data. If Google backup is enabled on your device, only the app settings (including the trial start date) are included in your encrypted backup in your own Google account, which we cannot access.</p>
@@ -82,8 +90,8 @@
 
     <h2>Optional features that use the internet</h2>
     <ul>
-      <li><strong>OpenSubtitles subtitles:</strong> only if you enter your own API key, the app sends the movie or series title and the subtitle language to opensubtitles.com to fetch a subtitle file. This is governed by the OpenSubtitles privacy policy.</li>
-      <li><strong>Sync with phone:</strong> only while the sync window is open, the app serves a small page inside your home network, protected by a random code, to move favorites and continue-watching data between your devices directly, without any external server.</li>
+      <li><strong>OpenSubtitles subtitles:</strong> when automatic subtitles are enabled or you search for a subtitle yourself (an optional feature), the app sends the movie or series title, season and episode number and the subtitle language to opensubtitles.com to fetch a subtitle file. If you enter an OpenSubtitles account, the username and password are sent only to opensubtitles.com to sign in (over an encrypted connection); we never receive them. This is governed by the OpenSubtitles privacy policy.</li>
+      <li><strong>Sync with a phone or another TV:</strong> only while the sync window is open, the app serves a small page inside your home network, protected by a random code, and announces itself on the local network only so another Txiptv device can find it with a 6-digit code, to move favorites, favorite lists and continue-watching data between your devices directly, without any external server. Passwords are never transferred in device-to-device sync.</li>
       <li><strong>Daily update:</strong> connects only to the playlist and TV guide servers you added.</li>
       <li><strong>Review prompt:</strong> Google Play may show a rating dialog once per app version; we receive no data from it.</li>
     </ul>
