@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://ahmadteftafeh.github.io/txiptv-privacy/test-epg.xml"
 #EXTINF:-1 tvg-id="test1" group-title="Test streams",Test channel 1 (Apple HLS sample)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8
 #EXTINF:-1 tvg-id="test2" group-title="Test streams",Test channel 2 (Big Buck Bunny, Blender Foundation, CC BY)
