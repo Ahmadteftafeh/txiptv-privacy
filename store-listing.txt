@@ -1,0 +1,391 @@
+# نصوص صفحة Txiptv على Google Play
+
+> الحدود في Play Console: العنوان 30 حرفاً، الوصف القصير 80 حرفاً، الوصف الكامل 4000 حرف.
+>
+> **قواعد هذه النصوص (لا تغيّرها):**
+> - لا كلمات مثل "قنوات مجانية" أو "أفلام مجانية" أو "مباريات مجاناً"، ولا أي اسم قناة أو باقة أو علامة تجارية لمحتوى.
+> - التطبيق مشغل فقط: يجب أن يبقى تنبيه "لا يوفّر أي محتوى" في كل لغة.
+> - في لقطات الشاشة والفيديو استخدم قائمة تجريبية بأسماء عامة (مثل "قناة تجريبية 1") دون أي شعار حقيقي.
+>
+> اللغة الافتراضية للمتجر: العربية (ar). أضف بقية اللغات من **Store presence ← Translations ← Manage translations**.
+
+---
+
+## العربية (ar)
+
+**اسم التطبيق (30):**
+```
+Txiptv - مشغل IPTV
+```
+
+**الوصف القصير (80):**
+```
+مشغل وسائط أنيق لقوائم M3U وXtream مع دليل برامج وتصميم مخصص للتلفاز
+```
+
+**الوصف الكامل:**
+```
+Txiptv مشغّل وسائط حديث لتشغيل قوائم IPTV الخاصة بك على Android TV والهاتف والتابلت، بواجهة مصممة لجهاز التحكم عن بعد.
+
+تنبيه مهم: Txiptv مشغّل وسائط فقط. لا يوفّر أي محتوى. يجب على المستخدمين إضافة قوائم التشغيل الخاصة بهم والتي يحق لهم قانونياً استخدامها. نحن غير مرتبطين بأي مزود محتوى.
+
+المزايا:
+• قوائم M3U وM3U8 وتسجيل دخول Xtream API
+• شاشة بث مباشر بثلاثة أعمدة: المجموعات، القنوات، ومعاينة صغيرة
+• دليل برامج (EPG) شبكي مع تذكيرات ومشاهدة الأرشيف عند توفره
+• تبديل سريع بين القنوات وإعادة اتصال تلقائية عند انقطاع البث
+• اختيار الجودة ومسار الصوت والترجمة، ويتذكرها التطبيق لكل قناة وفيلم
+• ترجمات تلقائية من OpenSubtitles (اختياري)
+• ضبط توقيت الترجمة، ويتذكر التطبيق ترجمتك للحلقة التالية
+• إيقاف البث المباشر مؤقتاً والرجوع للخلف ثم العودة للمباشر
+• قوائم مفضلة بأسماء تختارها
+• ملف أطفال بمجموعات مسموحة فقط ووقت مشاهدة يومي
+• أفلام ومسلسلات بالمواسم والحلقات مع المتابعة من حيث توقفت
+• بحث صوتي موحد للقنوات والأفلام والمسلسلات
+• مشاهدة متعددة حتى 4 قنوات بثلاثة تخطيطات
+• ملفات شخصية وملف للأطفال ورمز PIN لأي مجموعة
+• مزامنة المفضلة ومتابعة المشاهدة مع الهاتف عبر رمز QR دون أي خادم
+• نسخ احتياطي واستعادة، وتحديث يومي تلقائي للقوائم والدليل
+• 8 لغات: العربية، الإنجليزية، الألمانية، التركية، الفرنسية، الإسبانية، الفارسية، الكردية
+• خفيف على أجهزة التلفاز وأجهزة البث البسيطة
+
+الخصوصية: كل بياناتك تبقى على جهازك. لا إعلانات ولا تتبع.
+
+التجربة والاشتراك:
+جرّب كل المزايا مجاناً لمدة 7 أيام. بعدها يمكنك الاشتراك الشهري أو السنوي، أو الشراء مرة واحدة مدى الحياة. يُجدَّد الاشتراك تلقائياً ويمكن إلغاؤه في أي وقت من Google Play.
+```
+
+---
+
+## English (en-US)
+
+**App name (30):**
+```
+Txiptv - IPTV Player
+```
+
+**Short description (80):**
+```
+Elegant media player for your M3U & Xtream playlists, built for Android TV
+```
+
+**Full description:**
+```
+Txiptv is a modern media player for your own IPTV playlists on Android TV, phones and tablets, designed for the TV remote.
+
+Important: Txiptv is a media player only. It does not provide any content. Users must add their own playlists that they are legally allowed to use. We are not affiliated with any content provider.
+
+Features:
+• M3U / M3U8 playlists and Xtream API login
+• Three-column live TV screen: groups, channels and a small preview
+• Grid TV guide (EPG) with reminders and catch-up when available
+• Fast channel switching and automatic reconnect when a stream drops
+• Choose quality, audio track and subtitles, remembered per channel and movie
+• Automatic subtitles from OpenSubtitles (optional)
+• Subtitle timing adjustment; your subtitle choice is remembered for the next episode
+• Pause and rewind live TV, then jump back to live
+• Named favorite lists
+• Kids profile with allowed groups only and a daily viewing time
+• Movies and series with seasons, episodes and resume watching
+• Unified voice search for channels, movies and series
+• Multi-view with up to 4 channels and three layouts
+• Profiles, a kids profile and a PIN lock for any group
+• Sync favorites and continue watching with your phone via QR code, no server
+• Backup and restore, plus a daily automatic update of playlists and guide
+• 8 languages: Arabic, English, German, Turkish, French, Spanish, Persian, Kurdish
+• Light on TVs and simple streaming boxes
+
+Privacy: all your data stays on your device. No ads, no tracking.
+
+Trial and purchase:
+Try every feature free for 7 days. After that, choose a monthly or yearly subscription, or a one-time lifetime purchase. Subscriptions renew automatically and can be cancelled anytime in Google Play.
+```
+
+---
+
+## Deutsch (de-DE)
+
+**App-Name (30):**
+```
+Txiptv - IPTV-Player
+```
+
+**Kurzbeschreibung (80):**
+```
+Eleganter Mediaplayer für deine M3U- & Xtream-Playlists, gemacht für Android TV
+```
+
+**Vollständige Beschreibung:**
+```
+Txiptv ist ein moderner Mediaplayer für deine eigenen IPTV-Playlists auf Android TV, Smartphones und Tablets, optimiert für die TV-Fernbedienung.
+
+Wichtig: Txiptv ist ausschließlich ein Mediaplayer. Die App stellt keinerlei Inhalte bereit. Nutzer müssen ihre eigenen Playlists hinzufügen, deren Nutzung ihnen rechtlich erlaubt ist. Wir sind mit keinem Inhalteanbieter verbunden.
+
+Funktionen:
+• M3U-/M3U8-Playlists und Anmeldung per Xtream API
+• Live-TV-Ansicht mit drei Spalten: Gruppen, Kanäle und eine kleine Vorschau
+• TV-Programmführer (EPG) als Raster mit Erinnerungen und Catch-up, sofern verfügbar
+• Schnelles Umschalten und automatische Wiederverbindung bei Stream-Abbruch
+• Qualität, Tonspur und Untertitel wählen, gespeichert pro Kanal und Film
+• Automatische Untertitel von OpenSubtitles (optional)
+• Untertitel-Timing anpassen; deine Untertitelwahl gilt auch für die nächste Folge
+• Live-TV pausieren und zurückspulen, dann zurück zu Live
+• Benannte Favoritenlisten
+• Kinderprofil nur mit erlaubten Gruppen und täglicher Sehzeit
+• Filme und Serien mit Staffeln, Episoden und Weiterschauen
+• Einheitliche Sprachsuche für Kanäle, Filme und Serien
+• Multi-View mit bis zu 4 Kanälen und drei Layouts
+• Profile, ein Kinderprofil und PIN-Sperre für jede Gruppe
+• Favoriten und „Weiterschauen“ per QR-Code mit dem Smartphone synchronisieren, ohne Server
+• Sichern und Wiederherstellen sowie tägliche automatische Aktualisierung von Playlists und Programmführer
+• 8 Sprachen: Arabisch, Englisch, Deutsch, Türkisch, Französisch, Spanisch, Persisch, Kurdisch
+• Ressourcenschonend auf Fernsehern und einfachen Streaming-Boxen
+
+Datenschutz: Alle deine Daten bleiben auf deinem Gerät. Keine Werbung, kein Tracking.
+
+Testphase und Kauf:
+Teste alle Funktionen 7 Tage lang kostenlos. Danach wählst du ein Monats- oder Jahresabo oder einen einmaligen Lifetime-Kauf. Abos verlängern sich automatisch und können jederzeit in Google Play gekündigt werden.
+```
+
+---
+
+## Türkçe (tr-TR)
+
+**Uygulama adı (30):**
+```
+Txiptv - IPTV Oynatıcı
+```
+
+**Kısa açıklama (80):**
+```
+M3U ve Xtream listeleriniz için şık medya oynatıcı, Android TV için tasarlandı
+```
+
+**Tam açıklama:**
+```
+Txiptv, Android TV, telefon ve tabletlerde kendi IPTV oynatma listeleriniz için modern bir medya oynatıcıdır ve TV kumandası için tasarlanmıştır.
+
+Önemli: Txiptv yalnızca bir medya oynatıcıdır. Herhangi bir içerik sağlamaz. Kullanıcılar, yasal olarak kullanma hakkına sahip oldukları kendi oynatma listelerini eklemelidir. Hiçbir içerik sağlayıcıyla bağlantımız yoktur.
+
+Özellikler:
+• M3U / M3U8 oynatma listeleri ve Xtream API ile giriş
+• Üç sütunlu canlı TV ekranı: gruplar, kanallar ve küçük bir önizleme
+• Hatırlatıcılı ızgara TV rehberi (EPG), mevcut olduğunda geçmiş yayınları izleme
+• Hızlı kanal geçişi ve yayın kesildiğinde otomatik yeniden bağlanma
+• Kalite, ses parçası ve altyazı seçimi; her kanal ve film için hatırlanır
+• OpenSubtitles otomatik altyazıları (isteğe bağlı)
+• Altyazı zamanlaması ayarı; altyazı seçiminiz sonraki bölümde hatırlanır
+• Canlı yayını duraklatın, geri sarın, sonra canlıya dönün
+• Adlandırılmış favori listeleri
+• Yalnızca izin verilen gruplar ve günlük izleme süresiyle çocuk profili
+• Sezon ve bölümleriyle filmler ve diziler, kaldığınız yerden devam etme
+• Kanallar, filmler ve diziler için birleşik sesli arama
+• 4 kanala kadar ve üç düzenli çoklu izleme
+• Profiller, çocuk profili ve her grup için PIN kilidi
+• Favorileri ve izlemeye devam listesini QR kod ile telefonunuzla eşitleyin, sunucu gerekmez
+• Yedekleme ve geri yükleme, ayrıca listelerin ve rehberin günlük otomatik güncellenmesi
+• 8 dil: Arapça, İngilizce, Almanca, Türkçe, Fransızca, İspanyolca, Farsça, Kürtçe
+• TV'lerde ve basit yayın kutularında hafif çalışır
+
+Gizlilik: Tüm verileriniz cihazınızda kalır. Reklam yok, takip yok.
+
+Deneme ve satın alma:
+Tüm özellikleri 7 gün boyunca ücretsiz deneyin. Ardından aylık veya yıllık abonelik ya da tek seferlik ömür boyu satın alma seçin. Abonelikler otomatik olarak yenilenir ve Google Play üzerinden istediğiniz zaman iptal edilebilir.
+```
+
+---
+
+## Français (fr-FR)
+
+**Nom de l'application (30) :**
+```
+Txiptv - Lecteur IPTV
+```
+
+**Description courte (80) :**
+```
+Lecteur multimédia élégant pour playlists M3U et Xtream, conçu pour Android TV
+```
+
+**Description complète :**
+```
+Txiptv est un lecteur multimédia moderne pour vos propres playlists IPTV sur Android TV, smartphones et tablettes, conçu pour la télécommande.
+
+Important : Txiptv est uniquement un lecteur multimédia. Il ne fournit aucun contenu. Les utilisateurs doivent ajouter leurs propres playlists qu'ils sont légalement autorisés à utiliser. Nous ne sommes affiliés à aucun fournisseur de contenu.
+
+Fonctionnalités :
+• Playlists M3U / M3U8 et connexion Xtream API
+• Écran TV en direct à trois colonnes : groupes, chaînes et petit aperçu
+• Guide TV (EPG) en grille avec rappels et replay lorsqu'il est disponible
+• Changement de chaîne rapide et reconnexion automatique en cas de coupure du flux
+• Choix de la qualité, de la piste audio et des sous-titres, mémorisés par chaîne et par film
+• Sous-titres automatiques OpenSubtitles (facultatif)
+• Réglage de la synchro des sous-titres ; votre choix est gardé pour l'épisode suivant
+• Mettez le direct en pause, revenez en arrière, puis retournez au direct
+• Listes de favoris nommées
+• Profil enfant limité aux groupes autorisés avec un temps de visionnage quotidien
+• Films et séries avec saisons, épisodes et reprise de la lecture
+• Recherche vocale unifiée pour les chaînes, films et séries
+• Multi-écran jusqu'à 4 chaînes avec trois dispositions
+• Profils, un profil enfant et verrouillage par code PIN pour n'importe quel groupe
+• Synchronisez favoris et reprise de lecture avec votre téléphone via un code QR, sans serveur
+• Sauvegarde et restauration, plus mise à jour automatique quotidienne des playlists et du guide
+• 8 langues : arabe, anglais, allemand, turc, français, espagnol, persan, kurde
+• Léger sur les téléviseurs et les box de streaming simples
+
+Confidentialité : toutes vos données restent sur votre appareil. Pas de publicité, pas de pistage.
+
+Essai et achat :
+Essayez toutes les fonctionnalités gratuitement pendant 7 jours. Ensuite, choisissez un abonnement mensuel ou annuel, ou un achat unique à vie. Les abonnements se renouvellent automatiquement et peuvent être résiliés à tout moment dans Google Play.
+```
+
+---
+
+## Español (es-ES)
+
+**Nombre de la app (30):**
+```
+Txiptv - Reproductor IPTV
+```
+
+**Descripción breve (80):**
+```
+Reproductor elegante para tus listas M3U y Xtream, diseñado para Android TV
+```
+
+**Descripción completa:**
+```
+Txiptv es un reproductor multimedia moderno para tus propias listas IPTV en Android TV, móviles y tabletas, diseñado para el mando a distancia.
+
+Importante: Txiptv es solo un reproductor multimedia. No proporciona ningún contenido. Los usuarios deben añadir sus propias listas de reproducción que estén legalmente autorizados a usar. No estamos afiliados a ningún proveedor de contenido.
+
+Funciones:
+• Listas M3U / M3U8 e inicio de sesión con Xtream API
+• Pantalla de TV en directo con tres columnas: grupos, canales y una pequeña vista previa
+• Guía de TV (EPG) en cuadrícula con recordatorios y catch-up cuando esté disponible
+• Cambio rápido de canal y reconexión automática si se corta la emisión
+• Elige calidad, pista de audio y subtítulos; se recuerdan por canal y película
+• Subtítulos automáticos de OpenSubtitles (opcional)
+• Ajuste de la sincronía de subtítulos; tu elección se recuerda para el siguiente episodio
+• Pausa y retrocede la TV en directo y vuelve al directo
+• Listas de favoritos con nombre
+• Perfil infantil solo con grupos permitidos y tiempo diario de visionado
+• Películas y series con temporadas, episodios y reanudación de la reproducción
+• Búsqueda por voz unificada para canales, películas y series
+• Multivista con hasta 4 canales y tres diseños
+• Perfiles, un perfil infantil y bloqueo con PIN para cualquier grupo
+• Sincroniza favoritos y «Seguir viendo» con tu móvil mediante código QR, sin servidor
+• Copia de seguridad y restauración, además de actualización automática diaria de listas y guía
+• 8 idiomas: árabe, inglés, alemán, turco, francés, español, persa, kurdo
+• Ligero en televisores y reproductores de streaming sencillos
+
+Privacidad: todos tus datos se quedan en tu dispositivo. Sin anuncios ni rastreo.
+
+Prueba y compra:
+Prueba todas las funciones gratis durante 7 días. Después, elige una suscripción mensual o anual, o una compra única de por vida. Las suscripciones se renuevan automáticamente y puedes cancelarlas en cualquier momento en Google Play.
+```
+
+---
+
+## فارسی (fa)
+
+**نام برنامه (30):**
+```
+Txiptv - پخش‌کننده IPTV
+```
+
+**توضیح کوتاه (80):**
+```
+پخش‌کننده رسانه زیبا برای فهرست‌های M3U و Xtream، طراحی‌شده برای Android TV
+```
+
+**توضیح کامل:**
+```
+Txiptv یک پخش‌کننده رسانه مدرن برای فهرست‌های پخش IPTV خودتان روی Android TV، گوشی و تبلت است که برای کنترل از راه دور تلویزیون طراحی شده است.
+
+مهم: Txiptv فقط یک پخش‌کننده رسانه است. هیچ محتوایی ارائه نمی‌دهد. کاربران باید فهرست‌های پخش خودشان را اضافه کنند که از نظر قانونی مجاز به استفاده از آن‌ها هستند. ما به هیچ ارائه‌دهنده محتوایی وابسته نیستیم.
+
+ویژگی‌ها:
+• فهرست‌های پخش M3U / M3U8 و ورود با Xtream API
+• صفحه پخش زنده سه‌ستونی: گروه‌ها، کانال‌ها و یک پیش‌نمایش کوچک
+• راهنمای برنامه‌ها (EPG) به‌صورت جدولی با یادآور و پخش آرشیو در صورت وجود
+• تعویض سریع کانال و اتصال مجدد خودکار هنگام قطع پخش
+• انتخاب کیفیت، صدا و زیرنویس که برای هر کانال و فیلم به خاطر سپرده می‌شود
+• زیرنویس خودکار از OpenSubtitles (اختیاری)
+• تنظیم زمان‌بندی زیرنویس؛ انتخاب شما برای قسمت بعد به خاطر سپرده می‌شود
+• توقف موقت و عقب بردن پخش زنده و بازگشت به زنده
+• فهرست‌های علاقه‌مندی با نام دلخواه
+• نمایه کودک فقط با گروه‌های مجاز و زمان تماشای روزانه
+• فیلم‌ها و سریال‌ها با فصل‌ها و قسمت‌ها و ادامه تماشا از جایی که متوقف شدید
+• جستجوی صوتی یکپارچه برای کانال‌ها، فیلم‌ها و سریال‌ها
+• چندنمایی تا 4 کانال با سه چیدمان
+• نمایه‌ها، نمایه کودک و قفل PIN برای هر گروه
+• همگام‌سازی علاقه‌مندی‌ها و ادامه تماشا با گوشی از طریق کد QR، بدون سرور
+• پشتیبان‌گیری و بازیابی، به‌علاوه به‌روزرسانی خودکار روزانه فهرست‌ها و راهنما
+• 8 زبان: عربی، انگلیسی، آلمانی، ترکی، فرانسوی، اسپانیایی، فارسی، کردی
+• سبک روی تلویزیون‌ها و دستگاه‌های پخش ساده
+
+حریم خصوصی: همه داده‌های شما روی دستگاه خودتان می‌ماند. بدون تبلیغات و بدون ردیابی.
+
+دوره آزمایشی و خرید:
+همه ویژگی‌ها را به مدت 7 روز رایگان امتحان کنید. پس از آن، اشتراک ماهانه یا سالانه یا خرید یک‌باره مادام‌العمر را انتخاب کنید. اشتراک‌ها به‌طور خودکار تمدید می‌شوند و هر زمان می‌توانید آن‌ها را در Google Play لغو کنید.
+```
+
+---
+
+## Kurdî (ku)
+
+**Navê sepanê (30):**
+```
+Txiptv - Lîstikvana IPTV
+```
+
+**Danasîna kurt (80):**
+```
+Lîstikvana medyayê ya xweşik ji bo lîsteyên M3U û Xtream, ji bo Android TV
+```
+
+**Danasîna tevahî:**
+```
+Txiptv lîstikvaneke medyayê ya nûjen e ji bo lîsteyên te yên IPTV li ser Android TV, telefon û tabletan, ku ji bo kontrola dûr a TV-yê hatiye sêwirandin.
+
+Girîng: Txiptv tenê lîstikvaneke medyayê ye. Ew tu naverokê peyda nake. Divê bikarhêner lîsteyên xwe yên ku bi qanûnî mafê bikaranîna wan heye lê zêde bikin. Em bi tu peydakerê naverokê ve ne girêdayî ne.
+
+Taybetmendî:
+• Lîsteyên M3U / M3U8 û têketina bi Xtream API
+• Ekrana TV-ya zindî bi sê stûnan: kom, kanal û pêşdîtineke biçûk
+• Rêbera bernameyan (EPG) wek tor, bi bîrxistin û temaşekirina paşîn dema hebe
+• Guhertina bilez a kanalan û girêdana otomatîk dema weşan qut dibe
+• Hilbijartina kalîte, rêça dengî û jêrnivîsan, ji bo her kanal û fîlmekê tê bîranîn
+• Jêrnivîsên otomatîk ji OpenSubtitles (vebijarkî)
+• Sazkirina demkirina jêrnivîsê; hilbijartina te ji bo beşa din tê bîranîn
+• TV-ya zindî rawestîne û paşve vegere, paşê vegere zindî
+• Lîsteyên bijarteyan bi nav
+• Profîla zarokan tenê bi komên destûrdayî û dema temaşekirinê ya rojane
+• Fîlm û rêzefîlm bi demsal û beşan û berdewamkirina temaşekirinê
+• Lêgerîna dengî ya yekgirtî ji bo kanal, fîlm û rêzefîlman
+• Pirdîtin heta 4 kanalan bi sê rêzkirinan
+• Profîl, profîleke zarokan û kilîda PIN ji bo her komê
+• Hevdemkirina bijareyan û berdewamkirina temaşekirinê bi telefona te re bi koda QR, bê server
+• Paşekeft û vegerandin, û nûkirina otomatîk a rojane ya lîste û rêberê
+• 8 ziman: Erebî, Îngilîzî, Almanî, Tirkî, Fransî, Spanî, Farisî, Kurdî
+• Sivik li ser televizyonan û qutiyên weşanê yên sade
+
+Nepenî: hemû daneyên te li ser cîhaza te dimînin. Ne reklam, ne şopandin.
+
+Ceribandin û kirîn:
+Hemû taybetmendiyan 7 rojan belaş biceribîne. Piştre abonetiya mehane an salane, an jî kirîneke yekcar a heta hetayê hilbijêre. Abonetî bi xweber tên nûkirin û her dem ji Google Play dikarin werin betalkirin.
+```
+
+---
+
+## معلومات إضافية للنموذج
+
+| الحقل | القيمة المقترحة |
+|---|---|
+| الفئة | Video Players & Editors (مشغلات ومحررات الفيديو) |
+| العلامات | Video player, TV |
+| البريد الإلكتروني للتواصل | ah83tf@gmail.com |
+| سياسة الخصوصية | https://ahmadteftafeh.github.io/txiptv-privacy/ |
+| الإعلانات | لا يحتوي على إعلانات |
+| المشتريات داخل التطبيق | نعم |
