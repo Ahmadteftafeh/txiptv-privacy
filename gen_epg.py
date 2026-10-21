@@ -8,10 +8,10 @@ import datetime as dt
 from xml.sax.saxutils import escape
 
 CHANNELS = [
-    ("test1", "Test channel 1 (Apple HLS sample)"),
-    ("test2", "Test channel 2 (Big Buck Bunny)"),
-    ("test3", "Test channel 3 (Tears of Steel)"),
-    ("test4", "Test live channel (Akamai test stream)"),
+    ("test1", "Test channel 1"),
+    ("test2", "Test channel 2"),
+    ("test3", "Test channel 3"),
+    ("test4", "Test channel 4"),
 ]
 THEMES = ["Morning test show", "Sample film", "Test news bulletin", "Demo documentary", "Test music hour",
           "Open movie sample", "Test magazine", "Demo cartoon", "Test sports-free hour", "Sample series episode"]
@@ -33,7 +33,7 @@ def main() -> None:
             mins = (30, 60, 45, 60, 30)[(n + ci) % 5]
             stop = t + dt.timedelta(minutes=mins)
             theme = THEMES[(n * 3 + ci) % len(THEMES)]
-            title = f"{theme} {t.strftime('%H:%M')}"
+            title = f"{theme} #{n + 1}"
             desc = f"Generic placeholder programme on test channel {ci + 1}. Used only to test the TV guide."
             out.append(
                 f'  <programme start="{t.strftime(FMT)}" stop="{stop.strftime(FMT)}" channel="{cid}">'
